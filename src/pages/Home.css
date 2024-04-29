@@ -1,0 +1,12 @@
+.container{
+    background-color: white;
+}
+.title{
+    color: rgb(0, 132, 132);
+    align-items: center;
+    justify-content: center ;
+}
+.imagem{
+    align-items: center;
+    justify-content: center ;   
+}
